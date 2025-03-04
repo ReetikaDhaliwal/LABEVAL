@@ -1,0 +1,2 @@
+This is the project based on a simple calculator 
+this will perform arithmetic calculations.
